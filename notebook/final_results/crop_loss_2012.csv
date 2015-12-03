@@ -1,0 +1,11 @@
+ID_3,NAME_3,Area dmg,Yield Loss,Damage Fac,Production,Crop,Year
+21,Jafarabad,36200,3500.0,0.6,76020000,rice,2012
+23,Nasirabad,7400,3500.0,0.6,15540000,rice,2012
+80,Dera Ghazi Kha,8100,425.0,0.65,2237625,cotton,2012
+80,Dera Ghazi Kha,2000,3500.0,1.0,7000000,rice,2012
+83,Rajan Pur,18500,425.0,0.65,5110625,cotton,2012
+92,Narowal 1,4200,2000.0,0.6,5040000,rice,2012
+94,Sialkot,2000,2000.0,0.3,1200000,rice,2012
+128,Jakobabad,69200,4000.0,0.6,166080000,rice,2012
+129,Kashmore,36800,3800.0,0.6,83904000,rice,2012
+131,Shikarpur,23800,3600.0,0.6,51408000,rice,2012

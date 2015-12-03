@@ -1,0 +1,12 @@
+from osgeo import gdal
+import numpy as np
+
+
+array = ds.ReadAsArray().reshape(cols * rows)
+Array = array.astype(np.float64)
+Array2 = np.power(Array,2)
+
+
+Arraylog = Array2.copy()
+Arraylog[Array2!=0.] = ((10*np.log10(Array2[Array2!=0.])) - 83.0)
+
